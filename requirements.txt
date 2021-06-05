@@ -1,0 +1,11 @@
+discord
+pillow
+requests
+pandas
+datetime
+pytz
+wikipedia
+qrcode
+pywhatkit
+youtube_dl
+emoji
